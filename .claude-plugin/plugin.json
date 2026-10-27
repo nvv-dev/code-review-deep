@@ -1,0 +1,16 @@
+{
+  "name": "code-review-deep",
+  "version": "0.1.0",
+  "description": "Reviews only what changed for bugs, breaking changes, security and half-activated features; every finding has a verdict, severity and file:line.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/code-review-deep",
+  "repository": "https://github.com/nvv-dev/code-review-deep",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
